@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Science, Design and Public Speaking**
 
-- 📫 How to reach me **karantaneja2001@gmail.com**
+- 📫 How to reach me <a href="mailto:karantaneja2001@gmail.com"> **karantaneja2001@gmail.com** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
